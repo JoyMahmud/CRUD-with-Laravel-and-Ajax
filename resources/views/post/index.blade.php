@@ -45,8 +45,8 @@
                         </td>
                     </tr>
                 @endforeach
-
             </table>
+            {{ $posts->links() }} <!--this is for pagination-->
         </div>
     </div>
 
