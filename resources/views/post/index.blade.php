@@ -113,6 +113,11 @@
                         <span id="by"></span>
                     </div>
                 </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-warning" data-dismiss="modal">
+                        <span class="glyphicon glyphicon-remove"></span>Close
+                    </button>
+                </div>
             </div>
         </div>
     </div>
@@ -159,7 +164,7 @@
                         <span id="footer_action_button" class="glyphicon"></span>
                     </button>
                     <button type="button" class="btn btn-warning" data-dismiss="modal">
-                        <span class="glyphicon glyphicon"></span>close
+                        <span class="glyphicon glyphicon-remove"></span>close
                     </button>
                 </div>
 
@@ -167,72 +172,3 @@
         </div>
     </div>
 @endsection
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
